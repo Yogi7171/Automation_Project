@@ -1,0 +1,246 @@
+****StartingTC001_CR*****
+***End of the TC001_CR****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (e80d28d2366487cc849f06fd14acde61)] -> link text: Sign in]
+Entering EmailID:qatest1105@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (e80d28d2366487cc849f06fd14acde61)] -> id: email_create]
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (99874e2bd7c13d8c25c3972bdc2b73d4)] -> link text: Sign in]
+Entering EmailID:qatest5371@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (99874e2bd7c13d8c25c3972bdc2b73d4)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (99874e2bd7c13d8c25c3972bdc2b73d4)] -> id: SubmitCreate]
+clicking on Mr button:
+Entering FirstName:Yogeshusing object:[[ChromeDriver: chrome on WINDOWS (99874e2bd7c13d8c25c3972bdc2b73d4)] -> id: customer_firstname]
+***End of the TC001_CR****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (af22401d5d7fd190817578d9ecb713d4)] -> link text: Sign in]
+Entering EmailID:qatest6334@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (af22401d5d7fd190817578d9ecb713d4)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (af22401d5d7fd190817578d9ecb713d4)] -> id: SubmitCreate]
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (0f1f35e9f0c469bb6634caff9a3b7b06)] -> link text: Sign in]
+Entering EmailID:qatest2943@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (0f1f35e9f0c469bb6634caff9a3b7b06)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (0f1f35e9f0c469bb6634caff9a3b7b06)] -> id: SubmitCreate]
+clicking on Mr button:
+Entering FirstName:Yogeshusing object:[[ChromeDriver: chrome on WINDOWS (0f1f35e9f0c469bb6634caff9a3b7b06)] -> id: customer_firstname]
+***End of the TC001_CR****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (0b7dcf9627f096f6618399f2bcda1d6d)] -> link text: Sign in]
+Entering EmailID:qatest2468@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (0b7dcf9627f096f6618399f2bcda1d6d)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (0b7dcf9627f096f6618399f2bcda1d6d)] -> id: SubmitCreate]
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (5c125df7041621125a44ca583d617113)] -> link text: Sign in]
+Entering EmailID:qatest4134@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (5c125df7041621125a44ca583d617113)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (5c125df7041621125a44ca583d617113)] -> id: SubmitCreate]
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> link text: Sign in]
+Entering EmailID:qatest5765@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: SubmitCreate]
+clicking on Mr button:
+Entering Firstname by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: customer_firstname]
+Entering Lastname by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: customer_lastname]
+Entering Password by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: passwd]
+Selected a day by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: days]
+selected a month by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: months]
+selected a year by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: years]
+Entering address1 by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: address1]
+Entering address2 by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: address2]
+Entering city by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: city]
+Selected a state by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: id_state]
+Entering zipcode by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: postcode]
+Selected a country by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: id_country]
+Entering Mobile number by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: phone_mobile]
+Entering Alias Address by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> id: alias]
+Clicking on Registor by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object:[[ChromeDriver: chrome on WINDOWS (4b7ff75a8b12c2109c2f76427e5bc0ce)] -> xpath: //h1[text()='My account']]
+Clicking on signout by using object:Proxy element for: DefaultElementLocator 'By.linkText: Sign out'
+***End of the TC001_CR****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> link text: Sign in]
+Entering EmailID:qatest2241@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: SubmitCreate]
+clicking on Mr button:
+Entering Firstname by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: customer_firstname]
+Entering Lastname by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: customer_lastname]
+Entering Password by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: passwd]
+Selected a day by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: days]
+selected a month by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: months]
+selected a year by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: years]
+Entering address1 by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: address1]
+Entering address2 by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: address2]
+Entering city by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: city]
+Selected a state by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: id_state]
+Entering zipcode by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: postcode]
+Selected a country by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: id_country]
+Entering Mobile number by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: phone_mobile]
+Entering Alias Address by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> id: alias]
+Clicking on Registor by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object:[[ChromeDriver: chrome on WINDOWS (3472a434c161889908a50f756ac30c31)] -> xpath: //h1[text()='My account']]
+Clicking on signout by using object:Proxy element for: DefaultElementLocator 'By.linkText: Sign out'
+***End of the TC001_CR****
+****StartingTC001_CR*****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> link text: Sign in]
+Entering EmailID:qatest1984@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: SubmitCreate]
+clicking on Mr button:
+Entering Firstname by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: customer_firstname]
+Entering Lastname by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: customer_lastname]
+Entering Password by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: passwd]
+Selected a day by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: days]
+selected a month by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: months]
+selected a year by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: years]
+Entering address1 by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: address1]
+Entering address2 by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: address2]
+Entering city by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: city]
+Selected a state by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: id_state]
+Entering zipcode by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: postcode]
+Selected a country by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: id_country]
+Entering Mobile number by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: phone_mobile]
+Entering Alias Address by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> id: alias]
+Clicking on Registor by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object:[[ChromeDriver: chrome on WINDOWS (e3fc639be0a2f17d846675a86b3a1470)] -> xpath: //h1[text()='My account']]
+Clicking on signout by using object:Proxy element for: DefaultElementLocator 'By.linkText: Sign out'
+***End of the TC001_CR****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> link text: Sign in]
+Entering EmailID:qatest133@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: SubmitCreate]
+clicking on Mr button:
+Entering Firstname by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: customer_firstname]
+Entering Lastname by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: customer_lastname]
+Entering Password by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: passwd]
+Selected a day by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: days]
+selected a month by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: months]
+selected a year by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: years]
+Entering address1 by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: address1]
+Entering address2 by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: address2]
+Entering city by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: city]
+Selected a state by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: id_state]
+Entering zipcode by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: postcode]
+Selected a country by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: id_country]
+Entering Mobile number by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: phone_mobile]
+Entering Alias Address by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> id: alias]
+Clicking on Registor by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object:[[ChromeDriver: chrome on WINDOWS (edba1523b154bcec4f5c48b3eafc5ba5)] -> xpath: //h1[text()='My account']]
+Clicking on signout by using object:Proxy element for: DefaultElementLocator 'By.linkText: Sign out'
+***End of the TC001_CR****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> link text: Sign in]
+Entering EmailID:qatest4053@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: SubmitCreate]
+clicking on Mr button:
+Entering Firstname by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: customer_firstname]
+Entering Lastname by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: customer_lastname]
+Entering Password by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: passwd]
+Selected a day by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: days]
+selected a month by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: months]
+selected a year by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: years]
+Entering address1 by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: address1]
+Entering address2 by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: address2]
+Entering city by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: city]
+Selected a state by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: id_state]
+Entering zipcode by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: postcode]
+Selected a country by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: id_country]
+Entering Mobile number by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: phone_mobile]
+Entering Alias Address by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> id: alias]
+Clicking on Registor by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object:[[ChromeDriver: chrome on WINDOWS (87be763c731483fa9f891aeefea5ec6a)] -> xpath: //h1[text()='My account']]
+Clicking on signout by using object:Proxy element for: DefaultElementLocator 'By.linkText: Sign out'
+***End of the TC001_CR****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (bb1de775034ac7494dbe958c99e25a44)] -> link text: Sign in]
+Entering EmailID:qatest5380@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (bb1de775034ac7494dbe958c99e25a44)] -> id: email_create]
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (b6a2b1105729ccb1eedfc2e60d35d0e2)] -> link text: Sign in]
+Entering EmailID:qatest2743@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (b6a2b1105729ccb1eedfc2e60d35d0e2)] -> id: email_create]
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (d1d929c89c3572fd514bbfb4850cc327)] -> link text: Sign in]
+Entering EmailID:qatest3569@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (d1d929c89c3572fd514bbfb4850cc327)] -> id: email_create]
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (95dbecd317abc5003ac143db699b5a59)] -> link text: Sign in]
+Entering EmailID:qatest1116@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (95dbecd317abc5003ac143db699b5a59)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (95dbecd317abc5003ac143db699b5a59)] -> id: SubmitCreate]
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> link text: Sign in]
+Entering EmailID:qatest9590@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: SubmitCreate]
+clicking on Mr button:
+Entering Firstname by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: customer_firstname]
+Entering Lastname by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: customer_lastname]
+Entering Password by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: passwd]
+Selected a day by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: days]
+selected a month by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: months]
+selected a year by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: years]
+Entering address1 by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: address1]
+Entering address2 by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: address2]
+Entering city by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: city]
+Selected a state by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: id_state]
+Entering zipcode by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: postcode]
+Selected a country by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: id_country]
+Entering Mobile number by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: phone_mobile]
+Entering Alias Address by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> id: alias]
+Clicking on Registor by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object:[[ChromeDriver: chrome on WINDOWS (f8ba64ebc32386b4bd1c01151a9861ae)] -> xpath: //h1[text()='My account']]
+Clicking on signout by using object:Proxy element for: DefaultElementLocator 'By.linkText: Sign out'
+***End of the TC001_CR****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (e87c815db83dc24643b62c9b5e2e7fec)] -> link text: Sign in]
+Entering EmailID:qatest530@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (e87c815db83dc24643b62c9b5e2e7fec)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (e87c815db83dc24643b62c9b5e2e7fec)] -> id: SubmitCreate]
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> link text: Sign in]
+Entering EmailID:qatest9363@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: SubmitCreate]
+clicking on Mr button:
+Entering Firstname by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: customer_firstname]
+Entering Lastname by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: customer_lastname]
+Entering Password by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: passwd]
+Selected a day by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: days]
+selected a month by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: months]
+selected a year by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: years]
+Entering address1 by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: address1]
+Entering address2 by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: address2]
+Entering city by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: city]
+Selected a state by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: id_state]
+Entering zipcode by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: postcode]
+Selected a country by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: id_country]
+Entering Mobile number by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: phone_mobile]
+Entering Alias Address by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> id: alias]
+Clicking on Registor by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object:[[ChromeDriver: chrome on WINDOWS (6e1fb5e9b18d4d7cc7b3bf7b47cc795b)] -> xpath: //h1[text()='My account']]
+Clicking on signout by using object:Proxy element for: DefaultElementLocator 'By.linkText: Sign out'
+***End of the TC001_CR****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> link text: Sign in]
+Entering EmailID:qatest5377@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: SubmitCreate]
+clicking on Mr button:
+Entering Firstname by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: customer_firstname]
+Entering Lastname by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: customer_lastname]
+Entering Password by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: passwd]
+Selected a day by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: days]
+selected a month by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: months]
+selected a year by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: years]
+Entering address1 by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: address1]
+Entering address2 by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: address2]
+Entering city by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: city]
+Selected a state by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: id_state]
+Entering zipcode by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: postcode]
+Selected a country by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: id_country]
+Entering Mobile number by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: phone_mobile]
+Entering Alias Address by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> id: alias]
+Clicking on Registor by using object:Proxy element for: DefaultElementLocator 'By.id: submitAccount'
+Verified My account page by using object:[[ChromeDriver: chrome on WINDOWS (dd4f4634ab8fe22a252c8b9eb3855794)] -> xpath: //h1[text()='My account']]
+Clicking on signout by using object:Proxy element for: DefaultElementLocator 'By.linkText: Sign out'
+***End of the TC001_CR****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (4c4cb8539aa2f9789fb1aaec188f2aaf)] -> link text: Sign in]
+Entering EmailID:qatest3547@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (4c4cb8539aa2f9789fb1aaec188f2aaf)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (4c4cb8539aa2f9789fb1aaec188f2aaf)] -> id: SubmitCreate]
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (350fedc121bc3d4b92d6347c2190421a)] -> link text: Sign in]
+Entering EmailID:qatest3352@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (350fedc121bc3d4b92d6347c2190421a)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (350fedc121bc3d4b92d6347c2190421a)] -> id: SubmitCreate]
+****StartingTC001_CR*****
+****StartingTC001_CR*****
+Clicked on Sign IN button with object:[[ChromeDriver: chrome on WINDOWS (4dab509d6ba6d6220ffbd894f0bc3dd0)] -> link text: Sign in]
+Entering EmailID:qatest6175@gmail.comusing object:[[ChromeDriver: chrome on WINDOWS (4dab509d6ba6d6220ffbd894f0bc3dd0)] -> id: email_create]
+clicking on create an account:[[ChromeDriver: chrome on WINDOWS (4dab509d6ba6d6220ffbd894f0bc3dd0)] -> id: SubmitCreate]
